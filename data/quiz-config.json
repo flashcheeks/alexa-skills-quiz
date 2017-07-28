@@ -1,0 +1,19 @@
+{
+  "quizzes": [
+    {
+      "id": 1001,
+      "name": "The Times Daily Quiz.",
+      "url": "the-times-daily.json"
+    },
+    {
+      "id": 1002,
+      "name": "The hardest Game of Thrones quiz ever!",
+      "url": "game-of-thrones.json"
+    },
+    {
+      "id": 1003,
+      "name": "The Premier League transfers quiz.",
+      "url": "premier-league-transfers.json"
+    }
+  ]
+}

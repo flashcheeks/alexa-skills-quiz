@@ -1,0 +1,37 @@
+{
+  "intents": [
+    {
+      "intent": "ListQuizzesIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "QuizNumber",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "StartQuizIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "AnswerNumber",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "AnswerQuestionIntent"
+    },
+    {
+      "intent": "AnswerQuestionLiteral"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

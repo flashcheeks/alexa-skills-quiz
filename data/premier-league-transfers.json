@@ -1,0 +1,85 @@
+{
+  "explainer": "The Premier League transfers quiz. A multiple choice quiz with five questions.",
+  "questions": [
+    {
+      "question": "Mohamed Salah has become Liverpool's record signing but how many Premier League appearances did the Egyptian make for Chelsea?",
+      "anwsers": [
+        {
+          "answer": "11."
+        },
+        {
+          "answer": "13.",
+          "correct": true
+        },
+        {
+          "answer": "15."
+        }
+      ],
+      "reveal": "He made 13 appearances, scoring two league goals, for Chelsea."
+    },
+    {
+      "question": "Who is Newcastle United's record signing?",
+      "anwsers": [
+        {
+          "answer": "Michael Owen.",
+          "correct": true
+        },
+        {
+          "answer": "Alan Shearer."
+        },
+        {
+          "answer": "Aleksandar Mitrovic."
+        }
+      ],
+      "reveal": "Michael Owen is Newcastle's record signing. They paid around £16 million for the former England striker — a million more than they paid for Alan Shearer."
+    },
+    {
+      "question": "Huddersfield Town's record signing is Christopher Schindler but how much did he cost the newly-promoted side?",
+      "anwsers": [
+        {
+          "answer": "£500,000."
+        },
+        {
+          "answer": "£1.8 million.",
+          "correct": true
+        },
+        {
+          "answer": "£3.2 million."
+        }
+      ],
+      "reveal": "£1.8 million was paid to German side 1860 Munich last summer, for Christopher Schindler."
+    },
+    {
+      "question": "Kevin De Bruyne cost Manchester City £54 million when they signed him from Wolfsburg. How many assists did the Belgian midfielder have in the Premier League last season?",
+      "anwsers": [
+        {
+          "answer": "14."
+        },
+        {
+          "answer": "16."
+        },
+        {
+          "answer": "18.",
+          "correct": true
+        }
+      ],
+      "reveal": "18 assists, the most in the Premier League last season."
+    },
+    {
+      "question": "Which Premier League's team's record transfer fee stands at £27 million?",
+      "anwsers": [
+        {
+          "answer": "Crystal Palace.",
+          "correct": true
+        },
+        {
+          "answer": "Everton."
+        },
+        {
+          "answer": "Leicester City."
+        }
+      ],
+      "reveal": "Crystal Palace's record transfer fee stands at £27 million, Christian Benteke from Liverpool last summer."
+    }
+  ]
+}

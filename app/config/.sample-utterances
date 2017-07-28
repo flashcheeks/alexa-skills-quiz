@@ -1,0 +1,10 @@
+ListQuizzesIntent list the quizzes
+ListQuizzesIntent give me the quizzes
+ListQuizzesIntent tell me the quizzes
+
+StartQuizIntent quiz {QuizNumber}
+
+AnswerQuestionIntent answer {AnswerNumber}
+AnswerQuestionLiteral Dustin Hoffman
+AnswerQuestionLiteral Kiev
+AnswerQuestionLiteral Helicopter

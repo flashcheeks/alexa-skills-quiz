@@ -1,0 +1,17 @@
+{
+  "explainer": "Here is The Times Daily Quiz, three questions to test your general knowledge.",
+  "questions": [
+    {
+      "question": "Who played Thomas \"Babe\" Levy in the 1976 film Marathon Man?",
+      "anwser": "Dustin Hoffman."
+    },
+    {
+      "question": "In which capital city is Arsenalna, the world's deepest metro station at 346 feet below the surface?",
+      "anwser": "Kiev."
+    },
+    {
+      "question": "Jan Bahyl (1856-1916) invented the first petrol motor-driven type of which vehicle?",
+      "anwser": "Helicopter."
+    }
+  ]
+}
